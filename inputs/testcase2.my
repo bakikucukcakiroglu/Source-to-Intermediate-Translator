@@ -1,0 +1,6 @@
+BOOL = 1
+# We kinda have booleans...
+
+if(BOOL){
+	print(BOOL)		# 1
+}

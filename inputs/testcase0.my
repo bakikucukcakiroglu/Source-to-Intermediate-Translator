@@ -1,0 +1,2 @@
+# Start simple... Remember, comments are essential for any program!
+print(foo)			# 0

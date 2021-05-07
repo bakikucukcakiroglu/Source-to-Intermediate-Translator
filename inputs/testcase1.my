@@ -1,0 +1,4 @@
+# WOW! You just implemented a cool calculator!
+calc = 3*5/1 +4 
+calc = 2*calc
+print(calc)			# 38

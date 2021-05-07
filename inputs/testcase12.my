@@ -1,0 +1,4 @@
+n = 1
+m = 2
+k = choose(n, m, n)  # Syntax error
+print(k)

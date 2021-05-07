@@ -1,0 +1,10 @@
+# "Life is a sum of all your choices.
+# So, what are you doing today?"
+# 						-Albert Camus
+
+# Whatever you do, here is a truth for you.
+# To decode the truth, note the results of choose functions from left to right and then
+# convert each result from decimal to text using ASCII table.
+# Have fun!
+mychoice = choose(choose(1,5853013,4280901,choose(0, 4674117, choose(1,5853013,4281377,4280901),5853013)),0-1 * 0+1,5853013,0*0 + 0/1)
+print(mychoice)

@@ -1,0 +1,8 @@
+number = 1025
+
+# A while loop? You literally created a fully-fledged language, didn't you?
+while(number){
+	sum = sum + number
+	number = number / 2  # Ooops, is this an integer division or what???
+}
+print(sum)			# 2048

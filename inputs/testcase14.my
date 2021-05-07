@@ -1,0 +1,9 @@
+k = 1
+l = ((a + b) * (c - d) + (x * y)) / 1 - 8 * 0
+if ( l ) {
+	# Student: Hey! You said there is no nested if in mylang! 
+	# TA: See the expected output pls...
+	if (l) {
+		k = 4
+	}
+}

@@ -1,0 +1,14 @@
+# Isn't this too much for a very small function?
+# Well, when you have a language of your own, you can't help coding!
+x = 9
+n = 5
+r = 1
+p2 = x
+while (n) {
+	q = n/2 
+	t = n - 2*q 
+	r = r*choose(t,1,p2,1) 
+	p2 = p2*p2 
+	n = q 
+}
+print(r)			# 59049

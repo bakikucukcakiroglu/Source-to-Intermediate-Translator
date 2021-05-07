@@ -1,0 +1,2 @@
+W = choose((dummy-1), 10, 9, 11) # Choose? What a useful function! It in fact has switch-case semantics!
+print(W)			# 11

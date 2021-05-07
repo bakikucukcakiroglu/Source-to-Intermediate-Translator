@@ -1,0 +1,3 @@
+if(foo){
+	print(42)
+# the closing bracket lost its way and its at the next test case

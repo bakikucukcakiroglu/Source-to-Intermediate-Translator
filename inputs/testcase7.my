@@ -1,0 +1,34 @@
+
+# Let us see slightly more complex expressions... You know, just for fun ;)
+expression = ((zero -17))
+step = 21
+while(expression + ((azeroexpression*0)-0*(anotherexpression)) ) {
+	posVal = expression - step 
+	negVal = (((zero-1) * expression) / 2)
+	expression = choose(expression, zero-1, posVal, negVal)
+	step = choose(step, step, step-1, step+1)
+	print(expression)
+}
+
+# output is:
+#	8
+#	-12
+#	6
+#	-12
+#	6
+#	-10
+#	5
+#	-9
+#	4
+#	-8
+#	4
+#	-6
+#	3
+#	-5
+#	2
+#	-4
+#	2
+#	-2
+#	1
+#	-1
+#	0

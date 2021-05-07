@@ -1,0 +1,12 @@
+# You will never have to think if a number is odd or even, again :p
+
+k = 3
+isodd = 0
+
+while(k){
+	isodd = choose(isodd,1,0,foo-1)
+	k = k-1 # it works if you dont check negative numbers
+}
+
+# What an efficient way to find out if your number is odd!
+print(isodd) # 1 if k is odd, 0 if k is even

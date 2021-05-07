@@ -1,0 +1,16 @@
+# Let's go up to large numbers, shall we?
+concatanation = 0
+ctr = 5 # Well, not so large...
+while(ctr){
+	concatanation = concatanation * 10
+	concatanation = concatanation + ctr
+	print(concatanation)
+	ctr = ctr -1
+}
+
+# output is:
+# 5
+# 54
+# 543
+# 5432
+# 54321
